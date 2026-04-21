@@ -4,6 +4,11 @@
 
 主要目的在于学习 **Nanite** 的原理，核心内容可见Docs.
 
+<img width="1734" height="766" alt="image" src="https://github.com/user-attachments/assets/f481bac2-ccb9-465d-844b-af308069b607" />
+<img width="1930" height="830" alt="image" src="https://github.com/user-attachments/assets/2af3a8ff-fb4c-44e9-ba05-b7a6021614ee" />
+
+
+
 ## 🌟 项目
 - **过程化生态构建**: 利用 PCG 框架实现基于 Spline 与 Terrain 的多层次植被分布（树木 -> 灌木 -> 碎石 -> 落叶）。
 - **渲染底层分析**: 深入分析了 Nanite 在处理极细碎模型时的 `Preserve Surface Area` 与 `Voxelize` 两种算法的源码实现。
